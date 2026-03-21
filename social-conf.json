@@ -1,9 +1,9 @@
 {
-  "force_update": true,
+  "force_update": false,
 "retry_after_attempt":2,
   "latest_version_code": 9,
 "latest_version_name":"v2.0.2",
-  "maintenance_mode": false,
-  "title" : "App Update",
-  "message" : "Please update the app, as we have resolved few bugs regading insatgram videos/reels downloading"
+  "maintenance_mode": true,
+  "title" : "New app",
+  "message" : "We are releasing an new app, check it out"
 }
