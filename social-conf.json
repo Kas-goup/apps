@@ -1,9 +1,9 @@
 {
   "force_update": false,
-"retry_after_attempt":2,
-  "latest_version_code": 9,
+"retry_after_attempt":10,
+  "latest_version_code": 10,
 "latest_version_name":"v2.0.2",
-  "maintenance_mode": true,
-  "title" : "New app",
-  "message" : "We are releasing an new app, check it out"
+  "maintenance_mode": false,
+  "title" : "Update App",
+  "message" : "Please update this app to get latest feature and bugs being resolved to give error and more faster downloads"
 }
