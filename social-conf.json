@@ -1,7 +1,8 @@
 {
   "force_update": false,
-  "latest_version": "2.0.1",
-  "show_ads": true,
+"retry_after_attempt":3,
+  "latest_version_code": 10,
+"latest_version_name":"v2.0.2",
   "maintenance_mode": false,
   "title" : "App Update",
   "message" : "Please update the app, as we have resolved few bugs regading insatgram videos/reels downloading",
