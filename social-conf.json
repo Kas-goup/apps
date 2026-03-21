@@ -1,5 +1,5 @@
 {
-  "force_update": false,
+  "force_update": true,
 "retry_after_attempt":3,
   "latest_version_code": 10,
 "latest_version_name":"v2.0.2",
