@@ -1,9 +1,9 @@
 {
-  "force_update": false,
+  "force_update": true,
 "retry_after_attempt":10,
-  "latest_version_code": 10,
-"latest_version_name":"v2.0.2",
+  "latest_version_code": 12,
+"latest_version_name":"v2.1.0",
   "maintenance_mode": false,
-  "title" : "Update App",
-  "message" : "Please update this app to get latest feature and bugs being resolved to give error and more faster downloads"
+  "title": "A faster, better app is ready",
+"message": "Instagram Reels and photos now download reliably, statuses can be saved before they disappear, and you can extract MP3s — all in a cleaner new design. Update takes a minute."
 }
